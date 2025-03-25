@@ -55,5 +55,14 @@ export const products: Product[] = [
     description: "Fresh crispy red bell peppers",
     unit: "piece"
   },
+  {
+    id: 2,
+    name: "Red Bell Peppers",
+    price: 1.49,
+    image: "https://images.unsplash.com/photo-1592578629295-37b59344039e?auto=format&fit=crop&w=400",
+    category: "Vegetables",
+    description: "Fresh crispy red bell peppers",
+    unit: "piece"
+  },
   // Add more products as needed
 ];
